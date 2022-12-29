@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @csrvdias
 - 👀 I’m interested in travel and marketing
 - 🌱 I’m currently learning how to code
-- 📫 Reach me on linkedin.com/carolinasrvdias
+- 📫 Reach me on linkedin.com/in/carolinasrvdias
 
 <!---
 csrvdias/csrvdias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
